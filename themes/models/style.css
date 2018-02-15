@@ -1,0 +1,72 @@
+/*
+ * Theme Name: Models
+ */
+
+.video-background {
+    height: 80vh;
+    position: relative;
+    overflow: hidden;
+}
+
+
+.video-background iframe {
+	position: absolute;
+    top: -80px;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    pointer-events: none;
+}
+
+
+#menu-top {
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+.model-page .model-parameters {
+    display: flex;
+    justify-content: space-evenly;
+	margin-bottom: 30px; 
+}
+
+.gtranslate_wrapper {
+	position: absolute;
+	right: 0;
+	top: 25px;
+}
+
+
+a.glink {
+	display: inline-block;
+	margin-right: 8px;
+}
+
+a.glink img {
+	display: block;
+	border-radius: 100%;
+}
+
+.ls {
+	background-color: #0d0d0d;
+}
+
+@media screen and (max-width: 991px) {
+	
+	#menu-top {
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+	
+	
+	.gtranslate_wrapper {
+		display: none !important;
+	}
+	
+	.mainmenu_wrapper .gtranslate_wrapper {
+		display: block !important;
+		margin-left: 15px;
+		position: static;
+	}
+}

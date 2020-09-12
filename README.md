@@ -1,4 +1,4 @@
-# ModelsWPTheme
+# Models Wordpress Theme
 Wordpresss Test theme that shows all added models.
 
 Wordpress Models Catalog Theme.

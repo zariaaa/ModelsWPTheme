@@ -7,7 +7,7 @@ This is a basic template that is just for testing data.
 # Includes
 Wordpress, MetaBox, PHP, Redux Framework, Contact Form 7
 
-# Instalation
+# Installation
 
 1. Install Wordpress in a custom directory. You can download WP from here [here](https://wordpress.org/).
 2. Download the files from this repository.

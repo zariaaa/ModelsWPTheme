@@ -20,5 +20,5 @@ Wordpress, MetaBox, PHP, Redux Framework, Contact Form 7
 5. Activate the theme.
 6. Add Team members.
 
-#License
+# License
 MIT.

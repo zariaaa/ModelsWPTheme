@@ -1,10 +1,6 @@
 # Models Wordpress Theme
 Wordpresss theme that shows all added models.
-Wordpress Models Catalog Theme.
-
-The template includes: Wordpress, MetaBox, PHP, Redux Framework, Contact Form 7
-
-# Models Wordpress Theme
+Models Catalog Theme.
 Wordpress template that shows a catalog of different models with their personal information about height, wegiht and other.
 This is a basic template that is just for testing data.
 
